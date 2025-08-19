@@ -1,0 +1,3 @@
+Vytvoření poznámkového bloku, kde jsou informace o programu.
+
+Tento program je hra, kde se vytvoří náhodné číslo a člověk hádá správné číslo. Je naváděn pomocí „bulls“ a „cows“, kdy „cows“ znamená správné číslo, ale na jiném místě, a „bulls“ je správné číslo i umístění.
